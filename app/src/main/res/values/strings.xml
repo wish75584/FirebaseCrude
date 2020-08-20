@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseCrude</string>
+    <string-array name="citySpinner">
+        <item>Success</item>
+        <item>Motivation</item>
+        <item>Inspiration</item>
+        <item>Life</item>
+        <item>Love</item>
+        <item>Failure</item>
+        <item>Happiness</item>
+        <item>Education</item>
+    </string-array>
+</resources>
